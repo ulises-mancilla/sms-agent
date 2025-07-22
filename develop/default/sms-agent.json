@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1753210438073,
+    "description" : "This flow is to rate sms messages from NCC",
+    "identifier" : "sms-agent",
+    "lastModifiedTimestamp" : 1753210438073,
+    "name" : "sms-agent",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
