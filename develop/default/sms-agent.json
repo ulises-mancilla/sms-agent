@@ -20,7 +20,7 @@
         "comments" : "",
         "groupId" : "flow-contents-group",
         "id" : "2dff43d1-a5e1-35e2-aab0-a4ef1f389d11",
-        "name" : "LogMessage",
+        "name" : "LogMessage for testings",
         "type" : "PROCESSOR"
       },
       "flowFileExpiration" : "0 sec",
@@ -78,7 +78,7 @@
       "groupIdentifier" : "flow-contents-group",
       "identifier" : "2dff43d1-a5e1-35e2-aab0-a4ef1f389d11",
       "maxBackoffPeriod" : "10 mins",
-      "name" : "LogMessage",
+      "name" : "LogMessage for testings",
       "penaltyDuration" : "30 sec",
       "position" : {
         "x" : -144.0,
@@ -138,8 +138,8 @@
       "name" : "AttributesToJSON",
       "penaltyDuration" : "30 sec",
       "position" : {
-        "x" : -147.00004658114017,
-        "y" : -475.5000716584939
+        "x" : -144.0,
+        "y" : -544.0
       },
       "properties" : {
         "Destination" : "flowfile-attribute",
