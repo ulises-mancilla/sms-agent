@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1761687132210,
+    "description" : "",
+    "identifier" : "GW-1000-sms-agent",
+    "lastModifiedTimestamp" : 1761687132210,
+    "name" : "GW-1000-sms-agent",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
